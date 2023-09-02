@@ -68,7 +68,7 @@ $config->dbEngine = 'InnoDB';
  * Do not change this value, or user passwords will no longer work.
  * 
  */
-$config->userAuthSalt = '0db8a9cdb1e6037c92e7f3fa5d77edca3ee9a7e8'; 
+$config->userAuthSalt = 'a40e66f447a3cfdf6244a25d3178dd9b3232f147'; 
 
 /**
  * Installer: Table Salt (General Purpose) 
@@ -78,7 +78,7 @@ $config->userAuthSalt = '0db8a9cdb1e6037c92e7f3fa5d77edca3ee9a7e8';
  * this value or it may break internal system comparisons that use it. 
  * 
  */
-$config->tableSalt = 'd92443d76e6ac98a2fecbe5aeff54c53e37a9bf8'; 
+$config->tableSalt = '5caff8c4315a0bc7867daf0a01d4dc9a232c473e'; 
 
 /**
  * Installer: File Permission Configuration
@@ -106,7 +106,7 @@ $config->defaultAdminTheme = 'AdminThemeUikit';
  * Please leave this value as-is.
  * 
  */
-$config->installed = 1693635279;
+$config->installed = 1693653975;
 
 
 /**

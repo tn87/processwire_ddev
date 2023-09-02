@@ -13,6 +13,10 @@ ddev start
 
 ### helper
 
+#### edit db
+
+ddev sequelace
+
 #### export db
 
 ddev export-db --file=./db.sql.gz
