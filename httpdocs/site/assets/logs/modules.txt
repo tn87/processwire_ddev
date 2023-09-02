@@ -1,0 +1,6 @@
+2023-09-02 09:14:53	guest	https://pw.ddev.site/http404/	Installed module 'ProcessRecentPages'
+2023-09-02 09:14:53	guest	https://pw.ddev.site/http404/	Installed module 'AdminThemeUikit'
+2023-09-02 09:14:56	guest	https://pw.ddev.site/adm/login/	Installed module 'ProcessLogger'
+2023-09-02 09:14:57	guest	https://pw.ddev.site/adm/login/	Installed module 'InputfieldIcon'
+2023-09-02 09:16:23	tino	https://pw.ddev.site/adm/module/	Installed module 'ProcessTracyAdminer'
+2023-09-02 09:16:23	tino	https://pw.ddev.site/adm/module/	Installed module 'TracyDebugger'
