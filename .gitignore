@@ -1,3 +1,4 @@
 .DS_Store
 httpdocs/site/assets/logs/*
+httpdocs/site/assets/cache/*
 httpdocs/site/modules/dc-mgr
