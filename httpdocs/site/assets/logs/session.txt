@@ -1,2 +1,0 @@
-2023-09-02 09:15:02	tino	https://pw.ddev.site/adm/login/	Successful login for 'tino'
-2023-09-02 09:16:41	tino	https://pw.ddev.site/adm/login/logout/	Logout for 'tino'
