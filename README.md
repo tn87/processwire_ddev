@@ -8,7 +8,7 @@ ddev config --project-name "pw" --project-type php --docroot httpdocs --webserve
 
 ### start
 
-ddev import-db --src=./db.sql.gz
+ddev import-db --file=./db.sql.gz
 ddev start
 
 ### helper

@@ -1,0 +1,3 @@
+[submodule "httpdocs/site/modules/ProcessDcMgr"]
+	path = httpdocs/site/modules/ProcessDcMgr
+	url = https://github.com/tn87/ProcessDcMgr.git
