@@ -2,4 +2,4 @@
 httpdocs/site/assets/logs/*
 httpdocs/site/assets/cache/*
 httpdocs/site/assets/active.php
-httpdocs/site/modules/ProcessDcMgr
+httpdocs/site/modules/ProcessDcMgr.diff
